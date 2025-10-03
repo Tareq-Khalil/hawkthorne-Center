@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "love.js": "github:hawkthorne/love.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "start": "commencer",
+  "controls": "controles",
+  "options": "les options",
+  "credits": "credits",
+  "quit": "quitter",
+  "load": "charger",
+  "s_or_s_select_item": "%s ou %s: choisir produit",
+  "FULLSCREEN": "plein ecran",
+  "MUSIC VOLUME": "volume de la musique",
+  "SFX VOLUME": "volume de sfx",
+  "SHOW FPS": "montrer fps",
+  "RESET SETTINGS": "remettre cadres",
+  "RESET + QUIT": "remettre + quitter"
+}

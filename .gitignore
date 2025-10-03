@@ -1,41 +1,25 @@
-# Compiled Lua sources
-luac.out
+bin/
+build/
+.DS_Store
+__*
+full_soundtrack.ogg
+hawkthorne/
+win32/
+win64/
+redditors.txt
+src/maps/*.lua
+venv
+tmx2lua*
+dsa_priv.pem
+release.md
+post.md
+notes.html
+*.bak
+*.pyc
+Thumbs.db
 
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
-
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
+save
+src/test/fixtures/Fake.app
+Journey\ to\ the\ Center\ of\ Hawkthorne.app
+sparkle/appcast.json
+node_modules/
